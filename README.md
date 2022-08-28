@@ -6,4 +6,4 @@ Task Name : JS Temperature Converter
 
 LinkedIn Post : 
 
-[click here to visit my site](https://kunalchaudhari05.github.io/LandingPage/)
+[click here to visit my site](https://kunalchaudhari05.github.io/JS-Temperature-Converter/)
